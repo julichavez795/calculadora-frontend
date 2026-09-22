@@ -18,5 +18,5 @@
 // El MISMO index.html funciona en tu maquina y en produccion sin tocar
 // una linea. Lo unico que cambia es este archivo, y lo genera el servidor.
 window.CONFIG = {
-  API_URL: "http://mananaarranco_calculadora-frontend-juli:80/",
+  API_URL: "http://mananaarranco_calculadora-frontend-juli:80",
 };
